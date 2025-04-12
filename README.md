@@ -16,11 +16,7 @@ virtual-memory-learning/
 
 │   └── general-concepts/   - OS-agnostic memory concepts
 
-├── notes/                  - Personal notes and summaries
-
-├── summaries/              - Concept summaries and comparisons
-
-└── resources/              - Additional learning resources
+├── README.md/                  - Root Readme.md file
 
 ## What is Virtual Memory?
 
