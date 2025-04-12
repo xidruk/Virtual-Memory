@@ -8,13 +8,13 @@ This directory contains documentation about fundamental virtual memory concepts 
 
 The following PDF resources are available in this directory:
 
-- **ch9.pdf**: Comprehensive chapter on virtual memory fundamentals
-- **CSE351-L02-memory-I_17wi.pdf**: University course materials on memory basics
-- **Lecture21.pdf**: Academic lecture on virtual memory implementation
-- **Lecture_2_Addressing_Data_in_Memory_Microprcessor-Design.pdf**: Memory addressing in modern processors
-- **Operating System Virtual Memory.pdf**: OS-level virtual memory implementation
-- **os_virtual_memory.pdf**: Alternative perspective on OS virtual memory
-- **publication_3_22584_1575.pdf**: Research publication on virtual memory optimization
+- **ch9.pdf**: Comprehensive chapter on virtual memory fundamentals [click here](./documentation/linux/README.md)
+- **CSE351-L02-memory-I_17wi.pdf**: University course materials on memory basics [click here](./documentation/linux/README.md)
+- **Lecture21.pdf**: Academic lecture on virtual memory implementation [click here](./documentation/linux/README.md)
+- **Lecture_2_Addressing_Data_in_Memory_Microprcessor-Design.pdf**: Memory addressing in modern processors [click here](./documentation/linux/README.md)
+- **Operating System Virtual Memory.pdf**: OS-level virtual memory implementation [click here](./documentation/linux/README.md)
+- **os_virtual_memory.pdf**: Alternative perspective on OS virtual memory [click here](./documentation/linux/README.md)
+- **publication_3_22584_1575.pdf**: Research publication on virtual memory optimization [click here](./documentation/linux/README.md)
 
 ## Core Virtual Memory Concepts
 
