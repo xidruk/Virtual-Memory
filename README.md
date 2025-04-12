@@ -8,8 +8,11 @@ This repository serves as a comprehensive resource for learning about virtual me
 
 virtual-memory-learning/
 ├── documentation/
+
 │   ├── linux/              - Linux memory management resources
+
 │   ├── windows/            - Windows memory management resources
+
 │   └── general-concepts/   - OS-agnostic memory concepts
 
 ├── notes/                  - Personal notes and summaries
