@@ -11,8 +11,11 @@ virtual-memory-learning/
 │   ├── linux/              - Linux memory management resources
 │   ├── windows/            - Windows memory management resources
 │   └── general-concepts/   - OS-agnostic memory concepts
+
 ├── notes/                  - Personal notes and summaries
+
 ├── summaries/              - Concept summaries and comparisons
+
 └── resources/              - Additional learning resources
 
 ## What is Virtual Memory?
