@@ -7,6 +7,7 @@ This repository serves as a comprehensive resource for learning about virtual me
 ## Repository Structure
 
 virtual-memory-learning/
+
 ├── documentation/
 
 │   ├── linux/              - Linux memory management resources
